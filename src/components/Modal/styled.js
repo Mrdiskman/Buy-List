@@ -30,6 +30,7 @@ export const ModalStyled = styled.div`
         font-weight: 600;
         font-style: normal;
         background-color: #f28a80;
+        cursor: pointer;
         }
         .submitBtn{ 
         height: 35px;
@@ -41,6 +42,7 @@ export const ModalStyled = styled.div`
         font-style: normal;
         background-color: #0ff567;
         width: 96%;
+        cursor: pointer;
         }
         input{
             width: 95%;

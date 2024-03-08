@@ -26,6 +26,7 @@ export const ListStyled = styled.section`
         border: none;
         background-color: #ffffff;
         font-weight: bold;
+        cursor: pointer;
     }
     
     .Titlecontainer{
@@ -37,14 +38,14 @@ export const ListStyled = styled.section`
 
     .boxList{
         padding-top: 5px;
-        background-color: #3f3e40;
+        background-color: #0af25f;
         height: 400px;
         border-radius: 15px;
         width: 100%;
         display: block;
         margin: 0 auto;
         text-align: center;
-        overflow: auto;
+        overflow-y: auto;
     }
 
     .boxList li {
@@ -93,5 +94,8 @@ export const ListStyled = styled.section`
         min-height: 400px;
         height: fit-content;
         border-radius: 15px;
+        .items{
+        width: 90%;
+    }
     }
 `

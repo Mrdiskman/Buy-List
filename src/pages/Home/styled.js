@@ -15,7 +15,7 @@ export const HeaderStyled = styled.header`
     justify-content:center;
     align-items:center;    
     height: 60px;
-    background-color: #3f3e40;
+    background-color: #0af25f;
 
     .title{
         font-size: 25px;

@@ -7,7 +7,7 @@ export const TotalStyled = styled.div`
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #3f3e40;
+    background-color: #0af25f;
     border-radius: 15px;
     gap: 30px;
 
